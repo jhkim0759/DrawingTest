@@ -7,7 +7,8 @@ Mask R-CNN을 이용한 PITR 미술 심리 검사
 ##### umbrella.h5 , thunder.h5, person.h5, puddle.h5, cloud.h5 생성
 
 # 
-### 학습 완료 후 h5 파일을 다운 받고 로컬에서 진행 또는 MaskRCNNtrain 파일 나머지부분을 실행 시켜서 예측된 마스킹 이미지 확인합니다.
+### 학습 완료 후 h5 파일을 다운 받고 로컬에서 진행 또는 MaskRCNNtrain 파일 나머지부분을 실행
+
 ### 출력받은 이미지 정보를 통해 스트레스 정도를 확인할 수 있습니다.
 
 # 
